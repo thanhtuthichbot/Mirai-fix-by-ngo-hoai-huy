@@ -10,10 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "bot-chim",
-    "PREFIX": "!",
+    "BOTNAME": "NGUYENTHANHTU",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100029848123405",
+        "100047919797594",
         "100069957896457"
     ],
     "DATABASE": {
